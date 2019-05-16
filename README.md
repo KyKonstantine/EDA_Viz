@@ -1,15 +1,15 @@
 # EDA_Viz
-'''
-<p> This is some text </p/>
-'''
 
-1. this
-2.is
-3.a
-4. list
+This projected was created for the course "Exploratory Data Analysis and Visualisation". 
+We use data that cover both *economical* and *quality-of-life* aspects of European countries.
+It contains dynamic visualizationsions and dashboards in order to provide meaningfull insights about data.
 
-*Buller
-*points
+- The original datasets where harvested from:
+  -
+  
+- The modified datsets can be found here:
+  -
 
-http://www.google.com
-"press" [Google](http://www/google.com
+
+### Useful links:
+1. [Eurostat Database](https://ec.europa.eu/eurostat/data/database)
